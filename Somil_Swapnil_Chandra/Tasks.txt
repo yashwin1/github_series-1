@@ -1,0 +1,103 @@
+TASK 1 :
+
+
+
+Hello pals,
+This is Somil Swapnil Chandra persuing btech from DITU Dehradun
+1. What do you mean by git and GitHub?
+
+Git is a free, open source distributed version control system tool designed to manage a development project's source code history with efficiency. It is a tool a developer installs locally on their computer. It was created by Linus Torvalds in 2005 to develop Linux Kernel. Git has the functionality, performance, security and flexibility that most teams and individual developers need.
+
+GitHub is a cloud based platform built around the Git tool. It is an online service that stores code pushed to it from computers running the git tool. GitHub is an online service to which developers who use Git can connect and upload or download resources.
+
+2. Why GitHub is so popular and used in most of the projects?
+
+GitHub is a Git repository hosting service, which provides a web-based graphical interface. It is so popular and used in most of the projects because of the following reasons:
+
+a)Open, clear communication
+
+b)Public APIs. These allowed others to build upon their work.
+
+c)The right amount of functionality: repo, issue tracking, wiki, GitHub Pages
+
+d)Developer Oriented
+
+e)Superb technology choice: Git
+
+f) Better than other alternatives
+
+3. What is a version control system? How Git is a VCS?
+
+Version Control System (VCS) is a software that helps software developers to work together and maintain a complete history of their work. VCS allows developers to work simultaneously and maintain a history record of every version. It doesn't allow overwriting each other's changes. 3. What is a version control system? How Git is a VCS?
+
+Version Control System (VCS) is a software that helps software developers to work together and maintain a complete history of their work. VCS allows developers to work simultaneously and maintain a history record of every version. It doesn't allow overwriting each other's changes.
+
+There are 3 types of VCS:
+
+Local Version Control System Centralised Version Control System Distributed/Decentralised Version Control System Git is a Distributed Version Control tool that supports distributed non-linear workflows by providing data assurance for developing quality software Git gives each developer a local copy of the entire development history, and changes are copied from one such repository to another. These changes are imported as additional development branches, and can be merged in the same way as a locally developed branch.
+
+4. What are the other platforms similar to GitHub?
+
+GitLab BitBucket SourceForge Launchpad Google Cloud Source Repositories AWS CodeCommit Phabricator
+
+5. Why are you interested in learning of Git and GitHub?
+
+I want to learn Git and GitHub due to my curiosity and it will help me advance my knowledge. Learning Git and GitHub will help boost my potential and help  me get a better understanding of open source paradigm.
+
+
+
+
+TASK 2 :
+
+Hello everybody
+This is Somil Swapnil Chandra and I am pursuing B-Tech from DIT University.
+
+     The following is the  link to my git hub repository : 
+
+https://github.com/Alankriss07/GitHub-Series
+1.How git workflow works?
+
+There is only one central repository. Each developer clones the repository, works locally on the code(remote repository), makes a commit with changes, and push it to the central repository for other developers to pull and use in their work.
+
+This workflow employs two parallel long-running branches:
+
+Master
+Develop
+ 
+
+The three stages of a file are:
+
+1.Untracked: the file exists, but is not part of git's version control
+
+2.Staged: the file has been added to git's version control but changes have not been committed
+
+3.Committed: the change has been committed
+
+ 
+
+2.What are the different stages of a git project as commit, add?
+
+add: It is used to move a file from workspace (working directory) to the staging stage (Index), they are tagged for the next commit.
+
+commit: It is used to move a file from staging stage (Index) to Local Repository. It is used to save a particular position of our repository so that we could come back later if we ever want to.
+
+ 
+
+3.Is it possible to do git commit before git add. If you have made any changes? Explain why?
+
+No, you cannot perform git commit command before git add. Git commit -a automatically adds all the files to staging area or u can say it performs a git-add.
+
+ 
+
+4. Why is git diff used?
+
+Diff command is used in git to track the difference between the changes made on a file. Since Git is a version control system, tracking changes are something very vital to it. Diff command takes two inputs and reflects the differences between them. It is not necessary that these inputs are files only. It can be branches, working trees, commits and more
+
+ 
+
+5. Can we leave the commit message as blank?
+Ans     :   Meaningful commit message is part of good development practice and good repository organizing.
+ 
+Regards 
+
+Somil
