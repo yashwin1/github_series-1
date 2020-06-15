@@ -1,0 +1,70 @@
+Task - 1 
+
+Ques 1. What do you mean by git and GitHub??
+Ans 1. Git: It is a open source licensed, version control system(a system that records changes to a file or set of files over time so that we can recall specific versions later), that helps in managing and keeping track of the source code history.It is installed locally on the user's computer. 
+       Github: It is a cloud-based hosting service which is built around the Git tool and helps in managing Git repositories.
+
+Ques 2. Why GitHub is so popular and used in most of the projects?
+Ans 2. GitHub is the world’s largest software development platform. It provides cloud storage for source code and supports all popular programming languages.
+       It is the largest shared repository with easy version control, secure cloud storage and a large repository for code review automation, continuous integration, code performance and error monitoring and task management. 
+
+Ques 3. What is a version control system? How Git is a VCS?
+Ans 3. Version control system is a software tool that helps a software team manage changes to source code.It keeps track of every modification to the code in a special kind of database.If a mistake is made, developers can turn back to the previous versions and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
+       Git is a version control system as it helps in managing and keeping track of the source code history.Also, it allows developers to work on the same project at the same time without any disturbances.
+
+Ques 4. what are other platforms similar to github ?
+Ans 4. Some of the platforms similar to Github are:
+	1. Bitbucket
+	2. Source Forge
+	3. Launchpad
+	4. Gitlab
+	5. AWS CodeCommit
+
+Ques 5. Why are you interested in learning of Git and Github?
+Ans 5. I am interested in learning Git and Github as it provides a platform for easily collaborating and integrating with other people which will help me to improve my skills and knowledge.   
+
+
+Task - 2
+
+Ques 1. Share the link to the GitHub repository you have created.
+Ans 1. Link to the Github Repository:
+	https://github.com/dhapolasneha/github_series
+
+Ques 2. 
+a. How Git workflow works?
+Ans. The four fundamental elements in the GIT workflow are:
+	1. Workspace-It is our local directory
+	2. Index(stage)-After creating our files, when we add them they are stored in index or the tagged files to be considered in the next commit
+	3. Local Repository- It is the repository present locally in our computer which conatins the history of thw work we have done and it contains files which are committed
+	4. Remote Repository- It is the repository which is accessible to everyone, whoever have access to it(present in a server)
+	
+	The three states of the files are:
+	1. committed-Committed files or latest changes to the files are stored in local repository.
+	2. modified- Modified files or the changes made to the files are not stored and saved in the lical repository.
+	3. staged- The changes made to the files or the modified files are stored in index and they are tagged to be considered in the next committ.
+	
+	In a Git workflow:
+	a. workspace --> remote repository (pushing files or changes to the files in the remote repository from our local directory)
+	1. The new files or the modified files are stored in workspace, in our local directory.
+	2. The files are further added to index, so that they could be considered in the next commit using the add command.
+	3. The staged files are further committed using the commit command to the local repository, so that the changes are stored.
+	4. To take the changes to the remote repository we use the push command.And the changes made are visible to everyone, having access to the remote repository.
+	
+	b. remote repository --> workspace (fetching files from the repository to our local directory)
+	1. Files from the remote repo can be brought to the local repo using the fetch command. These files will not be visible in the local directory.
+	2. to make the files visible in the local directory merge command is used to get the files from the local repo.
+
+b. What are the different stages of a git project as commit, add?
+Ans.  Add: In this stage of the git project the files are added to index they are staged and are tagged as to be considered in the next commit.
+      commit: This is the final stage, as this stage finally applies the new changes to the remote repository.Each commit represents the changes made to project in the past, with the details about the time at which commit was made and by who.
+
+c. Is it possible to do a git commit before git add . if you have made any changes? Explain why?
+Ans. Yes, it is possible to make commit before add using the "git commit -a" command adds a change in the working directory to the staging area. It tells Git that we want to include updates to a particular file in the next commit. However, git add doesn't really affect the repository in any significant way, changes are not actually recorded until the git commit command is executed.So, whether we use commit before add or after add it will not affect the local repo.
+    
+ d. Why is git diff used?
+Ans. Show changes between commits, commit and working tree, etc.It compares the different versions of data sources.
+
+e. Can we leave the commit message as blank?
+Ans. Git generally requires a non-empty message because providing a meaningful commit message is part of good development practice and good repository stewardship. 
+
+
