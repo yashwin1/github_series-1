@@ -1,0 +1,36 @@
+Hello everyone ,
+My name is Riya Raj. I am in class-8 at st.joeph school
+Task-2
+HTTPS://github.com/riya51/git-repo/blob/master/README.md
+1.how git work flow works?
+Ans- The idea of git work flow is simple. There is one central repository. Each developer clones the repo, work locally on the code, make commits with the changes, and push it to central repository. In simple we can say from workspace to index, index to local repository, local repository to remote repository.
+2.what are the different stages of a git project as commit, add?
+Ans- Commit add the file to workplace to the index. Minus u is a syntax that is needed. When we give command to execute git, it commit all the files from index to local repository. By giving commit it is already a part of repository. Minus a works as a shortcut in this.
+3.Is it possible to do git commit before git add. If you have made any changes? Explain why?
+Ans- no, because first of we have to do git add to save the changes and then git commit. Till now I have not made such changes.
+4. Why is git diff used?
+Ans- diff command is used in git to track the difference between the changes made on a file. It helps us to analyze the state of a git repo. Diff command takes two inputs and reflects the difference between them. It is not important that they are input files only.diff is used for multipurpose.
+5. Can we leave the commit message as blank?
+Ans- Git generally requires a non- empty message because providing a meaningful commit message is a part of good development practice and good repository stewardship. The line of the commit message is used all over the place within git hub.
+Regards
+Riya Raj. (edited) 
+
+
+Riya Raj  3 days ago
+Hello everyone ,
+My name is Riya Raj. I am in class 8 studying at St.joseph school.
+ 1.what do you mean by git and git hub?
+Ans. Git is a free, open source distributed version control system tool designed to handle everything from small to very large project with speed and efficiency. Git hub is a web - based version control and collaboration platform for software. It is repository hosting for git. It is free of cost.
+2. why git hub is so popular and used in most of the project?
+Ans. Git hub is the world's largest software development platform. It offers the distributed version control and source code management that makes it one of the best. It provides cloud storage for source code, and supports all programming language.
+3. What is version control system? How git is a VCS ?
+Ans. version control system are a category of software tool that helps software team manage changes to source code over a time. It keeps track of every modification to the code in special kind of database. git performs distributed version control system for tracking changes in the source code during software development.
+4. What are the other software similar to git hub?
+Ans.Other software similar to git hub are,
+1) git lab
+2) bit bucket
+3) source forge
+5. Why are you interested in learning git and git hub?
+Ans. I am interested in learning git and git hub because it is a  collaboration platform to learn new things and best for starting coding journey.
+By,
+Riya Raj
