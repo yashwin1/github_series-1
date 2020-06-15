@@ -1,9 +1,0 @@
-Hi everyone!
-	My name is jivthesh I am final year student in Amrita university from CSE department
-Skills :-
-
-Languages : c, c++, Python, R
-Version control software :git, GitHub
-Machine Learning(Beginner)
-
-	Link to my linked in profile;https://www.linkedin.com/in/jivthesh/
