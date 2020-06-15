@@ -1,0 +1,21 @@
+Task-1
+Hello Everyone..
+I am Gaushik.I am currently pursuing my B.TECH in CSE
+1.What do you mean by git and GitHub?
+ Git:
+ Git is a free, open-source tool which is used to track changes to source code over a period of time. A Distributed Version Control System, that means every machine will have its own copy of the repository, in which changes to code are stored locally. it is useful in coordinating work among multiple people working on a project
+GitHub:
+ GitHub is a cloud-based Git repository hosting service. While Git is a command line tool, GitHub provides a web-based graphical interface. It provides various different features that make it easy for a team to work collaboratively on a project.
+2. Why GitHub is so popular and used in most of the projects?
+ GitHub is popular because it is a web-based service which provides cloud storage for source code. It has an immensely powerful community and a very large user base thus making it the world's largest software development platform.
+3. What is a version control system? How Git is a VCS?
+         A Version Control System is a Source Code Management tool that records the changes made to a file and helps in maintaining version history, hence enabling recalling of earlier specific versions later on Git is a VCS because it provides  change history of a file and branching and merging features.
+4. What are the other platforms similar to GitHub?
+                      I.        Source Forge
+                     II.        Bit Bucket Cloud
+                   III.        Loud Source Repositories
+                  IV.        Apache Allura
+                    V.        Git Karken
+                  VI.        Aws Code Commit
+5. Why are you interested in learning of Git and Github?
+           Git simplifies the process of working with other people and makes it easy to collaborate on projects. This allows multiple people to work on the same files at the same time. This helps me to boost my career and improve my knowledge.

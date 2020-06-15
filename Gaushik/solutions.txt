@@ -1,0 +1,14 @@
+Task -2
+Hello Everyone,
+My name is Gaushik.I am a final year student in Amrita University.
+https://github.com/Gaushik-007/git_tutorials
+1.How git work flow works?
+ 	   The idea of git work flow is simple. There is one central repository. Each developer clones the repo, work locally on the code, make commits with the changes, and push it to central repository. In simple we can say from workspace to index, index to local repository, local repository to remote repository.
+2.what are the different stages of a git project as commit, add?
+    	Commit add the file to workplace to the index. Minus u is a syntax that is needed. When we give command to execute git, it commit all the files from index to local repository. By giving commit it is already a part of repository.
+3.Is it possible to do git commit before git add. If you have made any changes? Explain why?
+   	No, because first of we have to do git add to save the changes and then git commit. Till now I have not made such changes.
+4. Why is git diff used?
+   	Diff command is used in git to track the difference between the changes made on a file. Since Git is a version control system, tracking changes are something very vital to it. Diff command takes two inputs and reflects the differences between them. It is not necessary that these inputs are files only.
+5. Can we leave the commit message as blank?
+   	Git generally requires a non-empty message because providing a meaningful commit message is part of good development practice and good repository stewardship.
