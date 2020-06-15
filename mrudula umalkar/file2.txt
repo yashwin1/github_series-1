@@ -1,0 +1,57 @@
+
+DAY 1:
+Hello guys I am Mrudula Umalkar from YCCE Nagpur, C.Tech ,3rd year.
+Answers of the above questions are:
+1)what is git and github?
+    ●Git
+   Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It was created by the "Linus Torvald". It also use software configuration management .Git is use for distributed system.
+     The purpose of the git is to manage a project or a set of files as they changes over a time. Git stores this information in a data structure called repository. A git repository contains ,among other things and objects.
+     Git provide us the authentic content history of our source code.
+     ●Github
+      Github is a repository hosting services but it adds many of its own features .While git a command line tool, Github provides a web based graphical interfaces.
+         It also provides access control and server collaboration features such as task management tools for every project.
+2)Why github is so popular and used in most of the projects?
+        As the largest open source repository  in the world Github offers number of unmatched benefits to developers everywhere. It also cloud storage for code ,data or files on which we are working .
+         Github is also world's largest software development platform. And support all programming language.
+3)what is the version control system?How git is a VCS?
+       Version control system are a software tools that help a software team manage changes to source code over time.version control software keeps track of every modifications to the  code in a special kind of databases. And if we want go back to the previous work or turn back the to clock we easily do that. If a mistake is made we easily turn back to the versions of the code to help fix the mistake.
+        We should use version control software to all code ,files  and assets that multiple team members will collaborate on. And as it is distributed system so we make changes even though we don't have internet connectivity.
+    Git is a distributed version control system for controlling changes to source code during any project or software development. Git gives each developer a local copy of the entire development history and changes are saved and copied from one machine (repositories) to another. It provides developers  efficiency to work on the same project without disturbances.
+4)what are the platform similar to Github?
+     Gitlab
+     BitBucket
+     Google Cloud Source Repositories
+     CodeGiant
+     SourceForge
+5)why are you interested in learning git and github?
+    I want to learn how this technologies work and want to improve my efficiency in projects.Curiosity and boosting my confidence in this technology are also the reason. 
+
+
+DAY 2:
+Hello
+I am Mrudula Umalkar from YCCE Nagpur.
+The link of my repository is
+https://github.com/Mrudulau30/webdesign
+1) How git workflow works
+It consists of 4 parts namely workspace having working directory, index shows stages , local repository and remote repository.
+Workspace- the files on which we are working
+Index- project added and ready to commited
+Local repository- the files after commiting saved here.
+Remote repository-repository on the server to which every members will access files
+2)what are the different stages of git project as commit and add?
+  Modified - we can make changes to copy of our files or project on which we are working without disturbing previous data.
+ Staged - the files which are added and ready to commit but not yet commited
+   Commit-the staged files are commited to local repository
+3)is it possible to do a git commit before git add ? If no explain why?
+    Yes it is possible to make commit before add using command  $git commit -a . Which helps to add a changes in the working directory to the staging area. However git add doesn't really affect repository in any significant way changes are not actually recorded until git commit command executed .therefore we use commit before add or after add it will not affect local repository .
+4)why git diff is used?
+ It is used to track the changes made in the project .it compares the commited file with th files in staged area.
+Previous statement shown by red colour and new command
+Statement shown by green colour.
+5)Can we leave commit message as blank?
+  Yes we can leave commit message as a blank . Though it is useful to write comments to know by whom and what changes were made in the software.
+    $git commit  -a --allow-empty-message-m"
+
+Mrudulau30/webdesign
+Language
+HTML
