@@ -1,0 +1,74 @@
+
+Ques 1. What do you mean by git and GitHub?
+Ans  1. 
+        Git- Created by Linux Torvald (Same person who created Linux Kernel)
+             Git is the actual version control software.This the actual appliaction.
+
+        Github - It is a web service where you can sign up and have an account and do stuff, do Git things, on a server, on a website.
+                 GitHub kind of runs the Git software behind the scenes.
+                 Some people also call it as social coding. In a way , it's like a social network for projects that are mananged through Git.
+
+Ques 2. Why GitHub is so popular and used in most of the projects?
+Ans  2. In git, it handles all those merging of different source code from different people and maintaining versions.
+        Git is actually a distributed version control system .
+        SCM - Software Configuration Manganement/ Source Code Management
+        MVP - Minimal Value Product
+
+
+
+Ques 3. What is a version control system? How Git is a VCS?
+Ans  3. Version Control Systems - Subversion or git
+       Why not subversion? :- It is because earlier people used to use CVCS- Centralized Version Control but now they use DVCS - Distributed Version Control System
+       CVCS -In this the earlier version was stored in server.
+            -We have a working copy, but what if the server fails.
+            -What if we dont a network connection.
+            -We have a single point of failure.
+       DVCS -Multiple machine, and everyone has its own personal working copy. 
+            -We will have a local repository and on the server we have a remote repository.
+            -We can provide the local copy to the server next time if the server fails.
+            -We are distributing the local respositries.
+            -Without internet connection connection also we can work on our local working copy and then we we gwt back the internet connection, then we can just push it on the server.
+
+Ques 4. What are the other platforms similar to GitHub?
+Ans  4.Git alterantives are as follows :
+       -GitLab
+       -BitBucket
+       -SourceForge
+       -Launchpad
+       -Google Cloud Source Repositories
+       -AWS CodeCommit
+       -Phabricator
+       -Gogs
+
+Ques 5. Why are you interested in learning of Git and Github?
+Ans  5.
+       -The history of what you are making is important and that is what is known as version control.
+         Rather than a creator having to keep a track of seperate files and history yourself manually, Git is a piece of software that does that for you.
+         Collaboration is another of its feature that allows many people to collaborate on the project together.
+       -Git is free and open source.
+       -Truck based development
+         In git you have a branch- master branch (commit and save).
+         In order to work on a different version, you can create a different branch.
+         You can merge the changes of various branches afterwards.
+       -Dropbox will have the backup of your project
+       -Creating your own github repository is possible. 
+         You can buy a git server and then you can add your git service there.
+         But we don't need to buy those services actually.
+         We have two different webs in fact we have mutiple implementations, one of them is github or we can use bitbucket or we can also use some GUI tools to work with them .
+
+
+
+
+
+
+Repository -"Repo"
+New Repository
+README is a special kind of file that goes in your repository that tells you about the file description.
+Create a new file. Work on it.
+Commit=Save
+For any changes ,select the edit option then press commit changes.
+For checking the history, select "History".
+- Commit Hash : A unique identifier for this particular commit.
+
+
+
