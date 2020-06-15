@@ -1,3 +1,4 @@
+					Day 1 solution
 1.what do you mean by git and github ?
 	Git is a version control system that lets you manage and keep track of your source code history . Git is installed and maintained on your local system and gives you a  record of your ongoing programming versions; you don’t even need internet access, except to download it. Git is responsive, easy to use, and inexpensive free, actually.One thing that really keeps Git apart is its branching model. Branching allows you to create independent local branches in your code. This means you can try out new ideas, set aside branches for production work, jump back to earlier branches, and easily delete, merge, and recall branches at the click of a button.
 
