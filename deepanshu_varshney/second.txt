@@ -1,0 +1,47 @@
+ task 1
+1. What do you mean by git and GitHub?
+• Git is a distributed version control system which tracks changes to source code over time. It is a command line tool that requires an interface to interact with the world. It stores and catalogs changes in code in a repository.Multiple developers can work parallely with no code conflicts. It uses repositories to store the changes made in source code.
+• Github is a web-based hosting service for git repository to bring team together. It is a graphical interface and a devlopment platform created for millions of developers. It provides a platform as a collaborative effort to bring teams together.
+2. Why GitHub is so popular and used in most of the projects?
+As it is web service so user can access his project from anywhere and It support all types of files. Through github we can share our code with others giving them the power to make edits on various Git branches. It also shows the contribution and commits made by a particular person on the repository.This make it possible for entire team to coordinate together on a single project.
+
+
+
+3. What is a version control system? How Git is a VCS?
+Version control allows you to manage changes to files over time. You can use version control to version code, binary files, and digital assets. This includes version control software, version control systems, or version control tools. Version control is a component of software configuration management.Version control systems are a category of software tools that helps record changes to files by keeping a track of modifications done to the code. VCS are sometimes known as SCM (Source Code Management) tools or RCS (Revision Control System). One of the most popular VCS tools in use today is called Git
+
+Version control is important to keep track of changes — and keep every team member working off the latest version. You should use version control software for all code, files, and assets that multiple team members will collaborate on. 
+It needs to do more than just manage and track files. It should help you develop and ship products faster
+
+
+
+
+4. What are the other platforms similar to GitHub?
+-BitBucket
+-SouceForge
+-LaunchPad
+-Gitlab
+
+
+task 2
+Q. 1) How git workflow works?
+Git workflow works on four fundamental elements. 
+1.Workspace-which is the working directory
+2.Index(stage)-project is added and ready to be commited
+3.Local Repository-it resides in the local system and contains all the files with their commit history
+4.Remote Repository-Repository on the server to which everyone has access
+
+Q. 2) What are the different stages of git project as commit,add?  
+Different stages of git project are : modified, staged and commit.
+1.modified-we can make changes to copy of our project without hampering the orignal code
+2.staged-the files which are added and ready to be commited but not yet commited 
+3.commit-the staged files are commited to local repository.
+ 
+Q. 3) Is it possible to do a git commit before git add?if no,explain why? 
+No, it is not possible to do git commit before git add. As per git workflow the file must be added to the index or staging area and then it must be committed.
+ 
+Q. 4) why is git diff is used?
+To track the difference between the changes made on a file. It compares two files with each other to show the difference.
+
+Q. 5) Can we leave the commit message as blank?
+Yes. By using the command: git commit -a --allow-empty-message -m "
