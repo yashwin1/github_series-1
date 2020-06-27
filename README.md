@@ -1,4 +1,7 @@
 # Git and Github Series
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![xodewayy.png](https://www.dropbox.com/s/xjgb5hp4juz2quf/xodewayy.png?dl=0&raw=1)
 
@@ -14,3 +17,22 @@ Codewayy has helped more than 50+ students to how to use Git and Github to manag
 
 ### Wants to be part of the community as a mentor or a student? 
 Join the slack channel here https://join.slack.com/t/codewayy-workspace/shared_invite/zt-f033vqec-f9ogVWqpTUbh0ke5U5QYdA and let us know we would be happy to add you in our community!
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/riya51"><img src="https://avatars3.githubusercontent.com/u/58393932?v=4" width="100px;" alt=""/><br /><sub><b>riya51</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=riya51" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
