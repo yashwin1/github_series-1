@@ -58,6 +58,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "yashika0998",
+      "name": "yashika mittal",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/49201799?v=4",
+      "profile": "https://github.com/yashika0998",
+      "contributions": [
+        "code",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
