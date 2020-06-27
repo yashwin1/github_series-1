@@ -1,6 +1,6 @@
 # Git and Github Series
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![xodewayy.png](https://www.dropbox.com/s/xjgb5hp4juz2quf/xodewayy.png?dl=0&raw=1)
@@ -34,6 +34,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/amisha-chauhan"><img src="https://avatars3.githubusercontent.com/u/66894429?v=4" width="100px;" alt=""/><br /><sub><b>amisha-chauhan</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=amisha-chauhan" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/arupmaji404"><img src="https://avatars2.githubusercontent.com/u/65840456?v=4" width="100px;" alt=""/><br /><sub><b>Arup Maji</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=arupmaji404" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/yashika0998"><img src="https://avatars2.githubusercontent.com/u/49201799?v=4" width="100px;" alt=""/><br /><sub><b>yashika mittal</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=yashika0998" title="Code">💻</a> <a href="#infra-yashika0998" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/priya8936"><img src="https://avatars3.githubusercontent.com/u/51107439?v=4" width="100px;" alt=""/><br /><sub><b>Priya Aggarwal</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=priya8936" title="Code">💻</a> <a href="#infra-priya8936" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
