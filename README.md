@@ -1,6 +1,6 @@
 # Git and Github Series
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![xodewayy.png](https://www.dropbox.com/s/xjgb5hp4juz2quf/xodewayy.png?dl=0&raw=1)
@@ -30,6 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/riya51"><img src="https://avatars3.githubusercontent.com/u/58393932?v=4" width="100px;" alt=""/><br /><sub><b>riya51</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=riya51" title="Code">💻</a></td>
     <td align="center"><a href="http://jivthesh.github.io"><img src="https://avatars3.githubusercontent.com/u/20579980?v=4" width="100px;" alt=""/><br /><sub><b>Jivthesh M</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=jivthesh" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/kushagra-18"><img src="https://avatars1.githubusercontent.com/u/46473446?v=4" width="100px;" alt=""/><br /><sub><b>kushagra-18</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=kushagra-18" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/shambhavi1304"><img src="https://avatars3.githubusercontent.com/u/52482297?v=4" width="100px;" alt=""/><br /><sub><b>shambhavi1304</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=shambhavi1304" title="Code">💻</a></td>
   </tr>
 </table>
 
