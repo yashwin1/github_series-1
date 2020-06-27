@@ -1,6 +1,6 @@
 # Git and Github Series
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![xodewayy.png](https://www.dropbox.com/s/xjgb5hp4juz2quf/xodewayy.png?dl=0&raw=1)
@@ -39,6 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/priya8936"><img src="https://avatars3.githubusercontent.com/u/51107439?v=4" width="100px;" alt=""/><br /><sub><b>Priya Aggarwal</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=priya8936" title="Code">💻</a> <a href="#infra-priya8936" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="https://github.com/Ridhima12345"><img src="https://avatars3.githubusercontent.com/u/52284756?v=4" width="100px;" alt=""/><br /><sub><b>Ridhima </b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=Ridhima12345" title="Code">💻</a> <a href="#infra-Ridhima12345" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="https://github.com/absaditi6"><img src="https://avatars1.githubusercontent.com/u/65762009?v=4" width="100px;" alt=""/><br /><sub><b>absaditi6</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=absaditi6" title="Code">💻</a> <a href="#infra-absaditi6" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/adinimbarte"><img src="https://avatars1.githubusercontent.com/u/59500173?v=4" width="100px;" alt=""/><br /><sub><b>Aditi Nimbarte</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=adinimbarte" title="Code">💻</a> <a href="#infra-adinimbarte" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
