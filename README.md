@@ -1,6 +1,6 @@
 # Git and Github Series
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![xodewayy.png](https://www.dropbox.com/s/xjgb5hp4juz2quf/xodewayy.png?dl=0&raw=1)
@@ -42,6 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/adinimbarte"><img src="https://avatars1.githubusercontent.com/u/59500173?v=4" width="100px;" alt=""/><br /><sub><b>Aditi Nimbarte</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=adinimbarte" title="Code">💻</a> <a href="#infra-adinimbarte" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="https://github.com/nanakjaswani"><img src="https://avatars2.githubusercontent.com/u/60886306?v=4" width="100px;" alt=""/><br /><sub><b>Nanak Jaswani</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=nanakjaswani" title="Code">💻</a> <a href="#infra-nanakjaswani" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="https://github.com/muditgupta68"><img src="https://avatars1.githubusercontent.com/u/54271833?v=4" width="100px;" alt=""/><br /><sub><b>Mudit Gupta</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=muditgupta68" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/shristibansal"><img src="https://avatars0.githubusercontent.com/u/66881846?v=4" width="100px;" alt=""/><br /><sub><b>shristibansal</b></sub></a><br /><a href="https://github.com/codewayy/github_series/commits?author=shristibansal" title="Code">💻</a> <a href="#infra-shristibansal" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 

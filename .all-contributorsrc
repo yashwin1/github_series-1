@@ -127,6 +127,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "shristibansal",
+      "name": "shristibansal",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/66881846?v=4",
+      "profile": "https://github.com/shristibansal",
+      "contributions": [
+        "code",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
