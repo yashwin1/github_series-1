@@ -108,6 +108,16 @@
         "code",
         "infra"
       ]
+    },
+    {
+      "login": "nanakjaswani",
+      "name": "Nanak Jaswani",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/60886306?v=4",
+      "profile": "https://github.com/nanakjaswani",
+      "contributions": [
+        "code",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
