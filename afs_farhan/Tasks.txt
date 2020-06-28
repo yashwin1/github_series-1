@@ -1,0 +1,47 @@
+Today's Task_1:-
+1. Git is a distributed version control tool that can manage a development project's source code history. It is a tool a developer installs locally on their computer.
+On the other hand GitHub is an online service to which developers who use Git can connect and upload or download resources. It is a cloud based platform built around the Git tool which stores code pushed to it from computers running the Git tool. 
+
+2.Git is widely used because it provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process. It's platform controls revisions and runs in the command line interface. It is an Open-source platform.
+
+3.Version control systems help a software team manage changes to source code over time. VCS keeps track of every modification to the code in a database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake.
+Git is a distributed VCS, where every contributor has a local copy or “clone” of the main repository i.e. everyone maintains a local repository of their own which contains all the files and metadata present in the main repository.
+
+4.Other platforms similar to Github
+ -Bitbucket
+ -Source Forge
+ -Gitbucket
+ -Beanstalk
+
+5. Features such as open-source, availability to use various programming languages, able to clone files, edit code,etc make me interested to use Git and GitHub.
+
+**********************************************************************************************************************************************************************
+**********************************************************************************************************************************************************************
+Q1. How git workflow works?
+ ans:- Git Workflow consists of 4 fundamentals.
+1. Workspace - it is the local directory 
+2. Index- it is also called as stage
+3. Local Repository- Head
+4. Remote Repository
+If the file is in workspace,it can be considered in 3 stages:-
+ committed, modified and staged where the file can be safe in local repository, locally modified and a file can be updated in next commit respectively.
+
+Q2.What are the different stages of a git project as commit ,add?
+ ans:- Files in a repository go through three stages before being under version control with git:
+
+Untracked: the file exists, but is not part of git's version control
+Staged: the file has been added to git's version control but changes have not been committed
+Committed: the change has been committed.
+
+Q3. Is it possible to do a git commit before git add,  if you made any changes. Explain why?
+ ans:-
+No, A file won't be automatically included in the next commit just because it was changed. Instead, you need to use the "git add" command to mark the desired changes for inclusion.
+Using the "git commit" command only saves a new commit object in the local Git repository. Exchanging commits has to be performed manually and explicitly.
+
+Q4. Why is git diff used ?
+ans:-
+Diff command is used in git to track the difference between the changes made on a file. Since Git is a version control system, tracking changes are something very vital to it. Diff command takes two inputs and reflects the differences between them.
+
+Q5. Can we leave the commit message as blank?
+ans:-
+ Yes , we can leave a commit message blank but writing message shows good development procedure and helps in keeping track on project.
