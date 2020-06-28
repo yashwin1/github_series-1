@@ -1,0 +1,15 @@
+Today's task
+1)Git is a software which keeps the track of the projects that we have done on our computer whereas GitHub is a webservice where we can do all git things.
+2)GitHub is an open source platform where a large number of programmers  can  store ,update there projects based on there versions.
+3) version control system means where we can store the project any number of times whenever we commit where we can also access the previous version.git is a distributed version control system which has local repository and can be accessed from anywhere.
+4)other platforms are:
+  Gitlab,bitbucket,gitbucket,cloud source           repository .....
+5)Every month I do a lot of projects where I use to start again from first whenever I got an error so git and GitHub are very helpful to check in which version I am wrong and to continue from my previous version.
+
+
+Task 2
+Q5)Can we leave the commit message as blank?
+Ans. Yes, git generally requires a non-empty message because providing a meaningful commit message is part of good development practice and good repository stewardship. The first line of the commit message is used all over the place within git.
+Link to github repository :
+https://github.com/boddulurisrisai/git_series.git
+`
