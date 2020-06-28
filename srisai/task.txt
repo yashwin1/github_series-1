@@ -13,4 +13,4 @@ Ans. Yes, git generally requires a non-empty message because providing a meaning
 Link to github repository :
 https://github.com/boddulurisrisai/git_series.git
 https://www.youtube.com
-`
+www.google.com
