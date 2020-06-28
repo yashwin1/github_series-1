@@ -1,0 +1,71 @@
+TASK-1
+Hello People!
+I am Aryaman Ranjan, pursuing B.Tech (4th-year student) from DIT University.
+Here are my answers of Task-1.
+Q1. What do you mean by git and GitHub?
+Ans- Git- Created by Linux Torvald (Same person who created Linux Kernel)
+         Git is the actual version control software. This the actual application.
+         Github - It is a web service where you can sign up and have an account and do stuff, do Git things, on a server, on a website.
+Ques 2. Why GitHub is so popular and used in most of the projects?
+Ans- In git, it handles all those merging of different source code from different people and maintaining versions.
+ Git is actually a distributed version control system.
+ SCM - Software Configuration Management/ Source Code Management                                                                                                                              MVP - Minimal Value Product.
+Easy version control- It tracks all the changes made to our code and who makes them. Having such a version history is a must when we           collaborate with someone on the same project. Especially when the number of contributors surpasses double digits.                                                        Secure cloud storage- The platforms protect all our data for us: protects code branches, verifies commit signing, controls access.
+Ques 3. What is a version control system? How Git is a VCS?
+Ans- Version control systems are a category of software tools that helps record changes to files by keeping a track of modifications.
+         Version control is the management of changes to documents,computer programs,large websites and other collection of information.
+	There are two types of VCS:
+        CVCS -In this, the earlier version was stored in the server.
+                   -We have a working copy, but what if the server fails.
+        DVCS -Multiple machines and every one has its own personal working copy.
+                   -We will have a local repository and on the server, we have a remote repository.
+Ques 4. What are the other platforms similar to GitHub?
+Ans- -GitLab
+         -BitBucket
+         -SourceForge
+         -Launchpad
+         -Google Cloud Source Repositories.
+Ques 5. Why are you interested in learning of Git and Github?
+Ans- The history of what you are making is important and that is what is known as version control.
+           Rather than a creator having to keep a track of separate files and history yourself manually, Git is a piece of software that does that for you.
+           Collaboration is another of its feature that allows many people to collaborate on the project together.
+          -Git is free and open-source.
+	  -Dropbox will have the backup of your project
+          -Creating your own GitHub repository is possible. 
+
+TASK-2
+Hello People!
+I am Aryaman Ranjan, pursuing B.Tech (4th-year student) from DIT University.
+Here are my answers of Task-2.
+QA. How git workflow works?
+Ans- 1. Working directory — Workspace.
+2. Index ie stage
+3. Local Repository ie Head
+4. Remote Repository
+There is one central repository.
+Each developer clones the repo,
+works locally on the code,
+Modifies and makes the changes as required
+Commit the changes using command commit -a with changes
+and push it to the central repository
+for other developers to pull and use in their work.
+QB. What are the different stages of a git project as commit ,add?
+Ans- Different stages of a git project:
+     1.Untracked: the file exists in workspace, but is not part of local repository.
+     2.Staged: the file has been added to local repository but changes have not been committed
+     3.Committed: the change has been committed and added to local repository.
+QC. Is it possible to do a git commit before git add. if you have made any changes. Explain why?
+Ans-  No, because according to the process
+first, we have to add the file and then commit changes to it
+After making the changes we will add them using “git add .”
+and then we can commit it using (commit -a).
+QD. why is git diff used?
+Ans- git diff is used to track the difference between the changes made on a file. This command shows all the
+changes which are done. Diff command takes two inputs and reflects the differences between them. These inputs don’t need to be filed only.
+It can be branches, working trees, commits, and more.
+QE. Can we leave a commit message as blank?
+Ans- Yes , we can leave a commit message blank.
+git commit -a — allow-empty-message -m msg
+It is a valid request, commit can have no message at all.
+Link to GitHub repository :
+https://github.com/Aryaman07/git_series
