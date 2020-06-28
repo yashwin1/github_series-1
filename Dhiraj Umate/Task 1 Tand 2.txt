@@ -1,0 +1,64 @@
+ Task no 1
+Question 1. What do you mean by git and GitHub?
+Answer:-Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them. 
+
+Question.2. Why GitHub is so popular and used in most of the projects? 
+Answer:-GitHub is a Git repository hosting service, which provides a web-based graphical interface. It helps every team member to work together on the project from anywhere and makes it easy for them. Github is open source projects than any other code repository/version control platform in existence.GitHub is the world's largest software development platform. It supports all popular programming languages.
+
+Question 3. What is a version control system? How Git is a VCS? 
+Answer:-Version control systems are a category of software tools that helps record changes to files by keeping a track of modifications done to the code.Developers can compare earlier versions of the code with an older version to fix the mistakes.
+
+Question 4. What are the other platforms similar to GitHub?
+Answer:-1 Gitlab
+2 SourceForge
+3 Google Cloud Source Repositories
+4 Apache Allura
+5GitKraken
+
+Question 5.Why are you interested in learning of Git and GitHub?
+Answer:-Git is a free, open-source software distributed version control system (DVCS) designed to manage all source code history and GitHub is a web-based hosting service for Git repositories. It offers all of Gits DVCS SCM and has some additional features.Its interesting to learn about how to distributed version control works. That's why I am interesting to learn Git and GitHub
+
+
+Task no. 2
+
+
+Question A. How git workflow works?
+Answer:-  1 workspace:-  which is our local directory
+2 Index:- it's also called as stage 
+3 Local Repository:-The local repo is on your computer for only your direct use.
+4 Remote Repository:- The remote repo is typically elsewhere and for your indirect use.
+Workspace file contains 4 state 
+1 Root folder.
+2 User name and email.
+3 Set of remote repositories (so it is able to fetch it; see below)
+4 Current list of commit bundles (changelists) and branches.
+Few commands :-
+a) git init:-(git init) 
+This command turns a directory into an empty Git repository. This is the first step in creating a repository. After running git init, adding and committing files/directories is possible.
+b) git commit:-(git commit -m) 
+Record the changes made to the files to a local repository. For easy reference, each commit has a unique ID.
+c) git configuration:- (git config) 
+With Git, there are many configurations and settings possible. git config is how to assign these settings.
+
+
+Question B. What are the different stages of a git project as commit ,add?
+Answer Untracked:- the file exists, but is not part of git's version control. 
+Staged:- The file has been added to git's version control but changes have not been committed. 
+Committed:- This is the final stage, as this stage finally applies the new changes to the remote repository.: the change has been committed. 
+
+
+Question C. Is it possible to do a git commit before git add. if you have made any changes. Explain why?
+Answer:- No, because according to the process
+first, we have to add the file and then commit changes to it
+After making the changes we will add them using “git add .”
+and then we can commit it using (commit -a).
+
+Question D. Why is git diff used?
+Answer The main objective of version control is to enable you to work with different versions of files. Git provides a diff command to let you compare different versions of your files. The most common scenario to use diff is to see what changes you made after your last commit.Diff command takes two inputs and reflects the differences between them. These inputs don’t need to be filed only.
+
+
+Question E. Can we leave a commit message as blank?
+Answer:- yes, we can leave commit message as blank but if we provide meaningful message with this it's easy to understand  why change made and also it's good habit for developer to provide message. 
+
+Link to GitHub repository:-
+https://github.com/dhirajumate19/Git_Series
