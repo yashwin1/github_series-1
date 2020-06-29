@@ -6,3 +6,6 @@ print(sum)
 
 pro = a*b
 print(pro)
+
+dif = a-b
+print(dif)
