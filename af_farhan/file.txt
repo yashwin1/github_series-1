@@ -1,4 +1,4 @@
-This file is created for conflict
+This file is used to create a merge conflict
 
 pyhton program
 
