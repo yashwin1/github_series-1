@@ -78,6 +78,7 @@ Ans.->Deleting a branch locally
      git push <remote> :<branch>
 
 PR links:
+
 *https://github.com/codewayy/github_series/pull/71
 
 *https://github.com/codewayy/github_series/pull/1
