@@ -38,7 +38,8 @@ Ans.Yes, git generally requires a non-empty message because providing a meaningf
     of good development practice and good repository stewardship. The first line of the commit message is
     used all over the place within git.
 
-Link to github repository:
+#Link to github repository:
+
 https://github.com/boddulurisrisai/git_series
 
 Task 3
@@ -77,7 +78,7 @@ Ans.->Deleting a branch locally
                or
      git push <remote> :<branch>
 
-PR links:
+#PR links:
 
 *https://github.com/codewayy/github_series/pull/71
 
