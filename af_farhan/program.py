@@ -2,4 +2,4 @@
 a = int(input("Enter a no.: "))
 b = int(input("Enter a no.: "))
 rem = a//b
-print(rem)
+print("Rem of a and b is :"rem)
