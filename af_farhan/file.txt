@@ -1,6 +1,6 @@
 This file is used to create a merge conflict
 
-pyhton program
+pyhton program for addition of two numbers.
 
  addition program
 a = int(input("Enter a no: "))
