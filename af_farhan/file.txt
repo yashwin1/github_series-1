@@ -1,0 +1,11 @@
+This file is used to create a merge conflict
+
+This python program is for addition of 'a' and 'b' two numbers. the 'sum' is printed.
+
+ addition program
+a = int(input("Enter a no: "))
+b = int(input("Enter a no.: "))
+sum = a+b
+print(sum)
+
+
