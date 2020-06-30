@@ -2,7 +2,7 @@ Introduction
 =============
 BODDULURI SRISAI
 ----------------
-Hi,I am ** BodduluriSriSai ** and I am a student at KL University persuing my B.Tech degree
+Hi,I am **BodduluriSriSai** and I am a student at KL University persuing my B.Tech degree
 in the field of computer science specializtion.
 
 I am not only good at marks but also involved in many social activities as well.I
