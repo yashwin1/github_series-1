@@ -1,6 +1,6 @@
 This file is used to create a merge conflict
 
-pyhton program for addition of two numbers a and b.the sum is printed.
+This python program is for addition of 'a' and 'b' two numbers. the 'sum' is printed.
 
  addition program
 a = int(input("Enter a no: "))
