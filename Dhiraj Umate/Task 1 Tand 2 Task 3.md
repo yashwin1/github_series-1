@@ -23,7 +23,7 @@ _Answer:-
 Git is a free, open-source software distributed version control system (DVCS) designed to manage all source code history and GitHub is a web-based hosting service for Git repositories. It offers all of Gits DVCS SCM and has some additional features.Its interesting to learn about how to distributed version control works. That's why I am interesting to learn Git and GitHub
 
 
- **Task no. 2
+## Task no. 2
 
 
 **Question A.** How git workflow works?
@@ -74,7 +74,7 @@ https://github.com/dhirajumate19/Git_Series
 # Hello everyone
 I'm **Dhiraj Umate** currently pursuing B.Tech in
 Bajaj Institutions of Technology, Wardha
-**Task no. 3**
+# Task no. 3
 
  **Question 1.** What is meant by the term fork and clone?
 _Answer:-
