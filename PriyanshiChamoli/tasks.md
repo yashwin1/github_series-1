@@ -67,3 +67,54 @@ Q5. Can we leave a commit message as blank?
 Ans. Yes , one can leave a commit message blank but writing message shows good development procedure and helps in keeping track on project.
 Link to GitHub repository :
 https://github.com/PriyanshiChamoli/git_series.git
+
+Task 3:
+
+Q1. What is meant by term fork and clone?
+Ans.
+Fork:
+-Working on someone else project or using there project as starting point of your own is known as Forking.
+- Creating a fork is producing a personal copy of someone else's project.
+- Fork act as a sort of bridge between original Repository and your personal copy.
+But after the process of forking project still remains on github after copying so we need to clone it to our computer.
+Clone:
+- Refers to creating a copy of an existing git repository in a new directory.
+- This automatically creates a connection that points back to the original repository,  which makes it very easy to interact with the central repository.
+Q2. What are branches in Github?
+Ans.
+-Git branch is the feature of Git which isolate development work without affecting other branches in Repository.
+-People create different branches and work on different aspects of the same document.
+- One can merge a branch into another branch using Pull request.
+Q3. What is PR?
+Ans.
+- PR( Pull Request) let you tell others about changes you have pushed to a branch in a repository on Githib.
+- Once a pull request is opened, you can discuss and review changes and add commits before your changes are merged into the base branch.
+Q4. Can we delete the master branch if not why?
+Ans. Yes , we can delete a master branch.
+Steps:
+ First you delete master in your local clone.
+>To do that we first make a new branch called alpha or similar. and delete master from there.
+Commands:
+git branch alpha
+git checkout alpha
+git branch -D master
+>Next delete branch on github. First we have to make github look at our alpha branch,then delete master.
+i. Push up the alpha branch
+Commands:
+git checkout alpha
+git push origin alpha
+then set alpha to github default branch.Go to the main github page for your repository,  click "Admin" button . There is a " Default branch " dropdown list near the top of screen from there select alpha. On the interface I'm looking at, a green tick appear above the dropdown list.
+Now, at command line:
+git push origin: master
+Q5. How can we delete a branch?
+Ans.
+Local and remote branches actually have nothing to do with each other .They are completely separate objects of Git.So we need to delete them separately.
+1. Deleting local branch
+$ git branch -d feature/ login
+Note: If you want to delete a branch that contains unmerged changes use "-f" flag . Use this with care because it makes losing data very easy.
+2. Deleting remote branch
+$ git push origin --delete feature/login
+---------------------------------------------------
+PR Links:
+https://github.com/codewayy/github_series/pull/74
+https://github.com/PriyanshiChamoli/git_seres/pull/1
