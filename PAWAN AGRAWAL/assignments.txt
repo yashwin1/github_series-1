@@ -1,0 +1,26 @@
+Task-2
+
+Q) share the link of your github repo you have created.
+Ans) https://github.com/pawan-git7979/Todo-list
+Q) drop the ans of the following question.
+a) and b) how git workflow works and what are different stages of git project.
+Ans) Git workflow is a process..comprised of three levels. Working directory (local system) , staging area, github repository.
+Git workflow shows us how the changes that had been made in the local copy can be transmitted to our github repo. this can be achieved by the no.of commands.
+(1) git init- first of all we have to initialise the git inside the folder, Which upon we want to work.
+(2) create a local file inside your directory or folder and make some changes.
+Now these changes can be seen only in your local copy not your github repo.
+(3) git add <file name> - this will add your local file into the staging area, it means files are ready to commit.
+You can see by running git status command which files we have to add in staging area.
+(4) now the last step remain, commiting changes.
+ Git commit -m "message" - this command will commit or save the changes that have been made by us in the files..and. Will also be reflected in our github repo.
+Now our local copy and github repo are exactly the same.
+
+C)is it possible to do a git commit before git add, of u have made any changes explain.why..?
+Ans)It is not possible to add git commit before git add.. bcs when we are running the git addd command it means that we are adding the files into the staging area or simply the files that we want to get commited we only out those files into the staging area...and after adding files into staging area we can run command git commit -m "message" to save all the changes that we have made in our local copy.
+D) why is git diff use..
+Ans)
+Git diff is a git command and is used to see what changes we have done in our local copy before and after. After running the git diff command we can see the code which we have added in green colour and code which we have deleted in red colour.
+After doing this if u want these changes to be also seen in your github repo you can run the git add command and after that git commit command to save all your changes in your github repo.
+E) can we leave a commit message as blank..?
+Ans) Yes, of course we can leave the commit message blank...like this---> git commit -m " ".
+But we shouldn't do this, bcs if the third person look into your repo he won't we able to understand what commit u have done until u have written the perfect  commit message.
