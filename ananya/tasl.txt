@@ -1,0 +1,32 @@
+TASK 2:
+Q): drop the ans to the following queestions
+a-how git overflow works?
+ans - git overflow is basically a procedure in which file undergoes three stages:
+1.here the git clone command will create a locker repository in workspace .
+2.add - it is to add a file from the workspace to the index after that the file is staged.
+and to commit the file all the file staged their changes will be comitted to the locker repository.
+3. there is a local repository from where we have to push our changes to remote repository.
+at remote repository it is visible to anyone who uses this repository .
+
+b - what are the different stages of a git project as commit, add?
+there are three stages they are as follows:
+ans -clone - creates a local repository in workspace.
+add - adds a file to the index.
+commit - is like save after you have made changes to your file.
+and push is included in the third stage only
+push - basically pushes your changes from local to remote.
+
+c - is it possible to do a git commit before git add . if you have made any changes explain why?
+ans - no it is not possible to do a git commit before git add because you havr to first explicitly
+specify the changes or modifications that you have done rather than just going to the next step commit
+as first the files will be staged and then comitted this will be for new files.
+
+d - why is git diff used?
+ans - it is used to find difference between files in workspace and index stage and what you could still 
+for furthur to commit and that then the local changes will not make it to the next commit.and this we can
+use as a sanity check before doing a commit to make sure all the local changes that you have and you want to 
+commit are already staged.
+
+e - can we leave a commit message as blank?
+ans - yes we can leave the commit message empty it is not necessary to add a message to the commit box,
+until and unless you want a specific message to be given or specified there.
