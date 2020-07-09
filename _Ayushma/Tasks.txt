@@ -1,0 +1,21 @@
+TASK 2:
+Ques 1.Share the link to the Github repoditory you have created.
+Ans1. My link to Github repository is github.com/Ayushma6204/Github_Series
+Ques2
+a)How git workflow works?
+Ans a) Working of git workflow:It consist of four fundamentals elements i.e Workspace ,index,local repository ,remote repository.
+File in workspace can be stored in 3 possible ways : committed  when data is safely stored,modified in case when your file being changed and none of the changes are saved in local repository,it can be staged  which mean file is part of index that is tagged to be consider in next commit. It works in 2 ways i.e centralised and decentralised. In case of decentralised there is local repository and you have to explictly push your changes to remote repository this is done by git push command.
+Git fetch  command to get files from remote to local repository  ,Git merge is used to get changes from local repository and take them to workspace .
+Command like git diff head git diff are also used in its working.
+Quesb).What are different stages of git project as commit,add?
+Ans b ) Different stages of git project as commit ,add are:
+1.Working Directory:Consider a project residing in your system .This project may or may not be tracked by Git. In either case this project directory is called Working Directory
+2.Staging area:staging area is the area where you group ,add and organize the files to be committed to Git for tracking their versions.
+3.Git Directory : it is database where metadata about project files history will be tracked.
+Quesc) Is it possible to do git commit before git add . if you have made any changes ?Explain why?
+Ans c) No it is not possible because git add commands add a change in the working directory to the staging area .It tells git that you want to include updates to a particular file in next commit. And Git  doesn't actuay record changes until you run git commit . So basically  git commit is used to staged the change in all file to local repository .It safely store our changes .
+Ques d).git diff is used for?
+Ans) git diff command is used to see the difference between files that are in workplace and the files that are staged for commit.
+Ques e)Can we leave the commit message as blank?
+Ans e) Yes we can  leave the commit message as blank. In case if you want to create empty commit you simply add the --allow-empty flag on git commit and add your message. (edited) 
+
