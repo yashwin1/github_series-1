@@ -1,0 +1,28 @@
+Day 1 Task - 1
+1. What do you mean by git and GitHub?
+Answer: Git is a distributed version-control system for tracking changes in source code during software development.
+GitHub is a server where we can have an account.
+2. Why GitHub is so popular and used in most of the projects?
+Answer: GitHub is an open source repository which is world's largest software and it provides many benefits that it is used in most of the projects.
+3. What is a version control system? How Git is a VCS?
+Answer: Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+Git is designed for coordinating work among programmers and it can be used to track changes in any set of files. 
+4. What are the other platforms similar to GitHub?
+Answer: Other platforms similar to GitHub are Bitbucket, GitLab, Google Cloud Source Repositories, Pharbricator, Rhode Code etc.
+5. Why are you interested in learning of Git and Github?
+Answer: Since Git is a open source software and has many benefits in programming I'm interested in learning this world's largest software.
+
+Day 2 Task 2:-
+My link to the GitHub repository is https://github.com/Vaishnavitopper/My-first-GIT.git         
+This is my github repository and all the tasks from GitHub series will be uploaded here.
+Answers for the given questions are:-      
+a. How git workflow works?
+Answer: A Git Workflow is a recipe or recommendation for how to use Git to accomplish work in a consistent and productive manner. Git workflows encourage users to leverage Git effectively and consistently. Git offers a lot of flexibility in how users manage changes. We can view about git workflow by using the command git status which is used after adding the file and gives us the status of that file. That is also called as staging area.
+b. What're the different stages of a git project as commit, add? 
+Answer: There are three different stages of the git project, these are Working Directory, Staging Area and Git Directory.Working directory is the directory containing hidden .git folder.Staging area is where we organize the files to be committed to Git for tracking their versions. Indexing is the process of adding files to the staging area. In other words, index constitutes of files added to the staging area.  Git directory is the database where metadata about project files’ history will be tracked.
+c. Is it possible to do a git commit before git add . if you have made any changes? Explain why? 
+Answer: The "commit" command is used to save your changes to the local repository. We have to explicitly tell which changes we want to include in a commit before running the "git commit" command. This means that a file won't be automatically included in the next commit just because it was changed. Instead, we need to use the "git add" command to mark the desired changes for inclusion. Thus it is not possible to do a git commit before git add if we have made any changes. 
+d. Why is git diff used?
+Answer:  git diff command is used to tell what difference is made in a file. If there are more than one file then the command will tell the differences of the files one by one.
+e. Can we leave the commit message as blank?
+Answer: Yes, we can leave the commit message as blank but it is considered to have short commit message if we made any changes to the file.
