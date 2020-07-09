@@ -1,0 +1,38 @@
+Task 1
+1.    What do you mean by git and GitHub?
+    -- Git is a software. A distributed version control system software which can allow different people around the world to make commit in the project and handle the versions of the project and maintain those version. In git you make repositories. We can make changes to the project on git without any internet access it stores a local backup in computer.
+   -- GitHub is a website where anyone from anywhere can work on projects together. It is a social network which uses git software somewhere in the background to manage projects.
+2.    Why  GitHub is so popular and used in most of the projects?
+     -- Git is fast and secure and it is almost not possible that we lose our data and it provides us so many features. It is used in most of the projects because we can manage different versions of the project separately and can create branches in it.
+3.    What is version control system? How Git is a VCS?
+     -- A version control system means it can track all the changes and the version of our project. A git is a software that manages the versions and keep track of the older versions and the new commits. Git can provide you the latest and the oldest version of your projects.
+4.   What are the other platforms similar to GitHub?
+     -- 1. Gitlab
+     -- 2. Bitbucket
+     -- 3. Apache Allura
+     -- 4. Sourceforge and many more are there.
+5.   Why are you interested in learning git and github?
+     -- Because it is Open-source and it is useful.
+
+
+
+Task 2
+Share the link to the GitHub repository you have created? https://github.com/Aditya-Tomar/Learning-Stuff-.git
+your README should contain brief about the project and should be written in markdown language. https://github.com/Aditya-Tomar/Learning-Stuff-/blob/master/README.md
+How git workflow works? 
+       Git hub workflow has sections - Workspace,Staging area,Local repository (decentralized) and remote repository (centralized).
+Any changes we made in our project file or create a new one it is present in workspace we have to add it and commit it after that the file is present or shifted in our local repository and to push it to remote repository we use the git push command. Reverse can be done we can fetch file from remote repository buy fetch method also.
+4  What are the different stages of a git project as commit, add?
+    First we have to make git repository because this file keeps track of all the changes that we made.
+    init command is used to make it or initialise it.
+   add command is used to add a file or to make a file move from workspace to staging area
+   commit will move your file from stage to local repository. Used to commit file.
+   push command will add file from local repo to remote repo (github repository)
+   fetch command is used to fetch files from remote repository and take it to local repository.
+5 is it possible to do a commit before git add, if you have made any changes? Explain why?
+    git commit take file from stage area to commit and to move file in stage area it need to be added by git add.
+   so  we cannot commit file without doing adding it.
+6 Why is git diff used?
+    a git command it tell us the difference between the working file and the previous file if we had made any changes on it.
+7  Can we leave the commit message blank?
+    yes but it comes in good practise to add message. it act as a notice board will tell us what we have done in this file.
