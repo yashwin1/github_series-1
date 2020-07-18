@@ -1,0 +1,78 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# TASK-1
+
+## 1. What do you mean by git and github?
+
+### Git is a distributed version control system . Distributed meaning that each person in an organization has his copies of files in local repo . And version control means , we can keep track of the versions of files created, updated and deleted .
+Github is a web service and is like a remote repository which helps in collaboration with people all over the globe and contribute to open source projects .
+
+## 2. Why is github so popular ?
+
+### Github is popular because say for instance i want to collaborate with a team in a project , I can save my code in one server where everyone can see the changes and updation made and contribute to it .
+
+## 3. What is VCS?How git is a VCS?
+
+### Git is a VCS because it helps to save every versions of files to keep track of the updation in files and various changes . I can switch back to any version and even include any updation without hampering the previous versions.
+
+## 4. What are the other platforms similar to github?
+
+Bitbucket , gitlab are similar to github
+## 5. Why are you interested in learning of Git and Github?
+
+### I want to learn to collaborate in open source projects.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#TASK-2
+
+## 1. How git workflow works?
+
+### Git workflow works by creating a github account, creating a repo, push files from local repo to github, on updation - add and commit changes on local and then push it to github .
+
+## 2. What are the different stages of a git project as commit, add?
+
+### Add helps to add the changes in git history , it is like taking a screenshot so that we can come back at this stage of the project , commit confirms by saving the changes.
+
+## 3. Is it possible to commit before add?
+
+### It does not show a error if there is nothing to commit , but if there are changes made to file then we need to add first
+
+## 4. Why is git diff used?
+
+### To see changes made to an umcommited file.
+
+## 5. Can we leave commit message as blank?
+
+### Yes we can leave it as an empty string.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# TASK-3
+
+## pull requests
+
+<https://github.com/codewayy/github_series/pull/180>  
+<https://github.com/codewayy/github_series/pull/181>
+
+## a. What is meant by the term fork and clone?
+
+### Fork creates an instance of repo in remote whereas clone creates a copy in local.
+
+## b. What are branches in Github?
+
+### A branch is like a another version of code that we may want to add in master or not later but we woRk on it at present. its a diversion from master
+
+## c. What is a PR? 
+
+### pull request is when i want to push a code to a repo for which i dont have access to so i will have to pull a request .
+
+## d. Can we delete the master branch if not Why? 
+
+### if we try to delete a remote master , it instead deletes a local master branch . To achieve that we can  run git push origin :master. Essentially what we're doing here is pushing a null branch (the empty branch name to the left of the :) over top of the remote branch (the branch name to the right-side of the :), effectively deleting it. 
+
+## e. How can we delete a branch? (Explore a bit about this yourself)
+
+### git branch -d branchname deletes both locally and remotely.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
